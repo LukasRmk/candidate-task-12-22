@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<root>
+  <row>
+    <count>2</count>
+    <latitude> 55.67766</latitude>
+    <longitude> 12.59747</longitude>
+  </row>
+  <row>
+    <count>1</count>
+    <latitude> 55.68186</latitude>
+    <longitude> 12.56989</longitude>
+  </row>
+  <row>
+    <count>0</count>
+    <latitude> 55.64675</latitude>
+    <longitude> 12.54854</longitude>
+  </row>
+  <row>
+    <count>4</count>
+    <latitude> 55.70909881591797</latitude>
+    <longitude> 12.603099822998047</longitude>
+  </row>
+</root>
